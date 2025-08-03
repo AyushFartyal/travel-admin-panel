@@ -1,5 +1,5 @@
-# Travel Admin Panel
-
+# Travel Admin Panel (Ongoing*)
+ 
 A web-based admin panel built with Next.js, Tailwind CSS, Firebase Auth, and ShadCN UI.
 
 ## 🚀 Getting Started
@@ -20,13 +20,6 @@ Then open http://localhost:3000 in your browser.
 - Tailwind CSS
 - Firebase Authentication
 - ShadCN UI components
-
-## 🗂 Project Structure
-
-src/
-├── app/         → App routes (login, dashboard, etc.)
-├── components/  → Reusable UI components
-├── lib/         → Firebase config and utilities
 
 ## 🧪 Test Login
 
